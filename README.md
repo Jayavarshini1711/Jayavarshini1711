@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jayavarshini
-- 👀 I’m interested in  Hi, I’m Jayavarshini
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning about advanced programming techniques, data structures, and algorithms as part of my Computer Science and Engineering studies. I’m also exploring new frameworks and tools to enhance my skills.
 - 📫 How to reach me:https://www.linkedin.com/in/jayavarshini-rajamani 
